@@ -1,6 +1,7 @@
 ### 📊 E-Commerce Sales Analysis Dashboard (Excel)
 
 📌 Project Overview
+
 This project showcases an interactive E-Commerce Sales Analysis Dashboard created using Microsoft Excel. The dashboard provides a comprehensive view of sales performance, customer behavior, and product trends, enabling better business decision-making through data insights.
 
 🎯 Objectives
@@ -11,6 +12,7 @@ This project showcases an interactive E-Commerce Sales Analysis Dashboard create
 - To track sales trends over time
 
 📁 Dataset
+
 The dataset includes:
 - Order ID, Order Date
 - Product Category & Sub-category
@@ -27,11 +29,11 @@ The dataset includes:
 
 📊 Dashboard Features:
 
-📈 Sales trend analysis (monthly basis)
-🏆 Top-performing products and categories
-🌍 Region-wise sales and profit distribution
-👥 Customer segmentation
-🎯 KPI cards (Total Sales, Profit, Orders, Quantity)
+- 📈 Sales trend analysis (monthly basis)
+- 🏆 Top-performing products and categories
+- 🌍 Region-wise sales and profit distribution
+- 👥 Customer segmentation
+- 🎯 KPI cards (Total Sales, Profit, Orders, Quantity)
 
 🔍 Key Insights
 - A few product categories contribute significantly to overall revenue
